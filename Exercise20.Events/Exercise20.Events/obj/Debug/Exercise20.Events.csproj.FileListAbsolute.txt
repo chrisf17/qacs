@@ -1,0 +1,6 @@
+/Users/christopherfarrell1/Projects/Exercise20.Events/Exercise20.Events/bin/Debug/Exercise20.Events.exe
+/Users/christopherfarrell1/Projects/Exercise20.Events/Exercise20.Events/bin/Debug/Exercise20.Events.pdb
+/Users/christopherfarrell1/Projects/Exercise20.Events/Exercise20.Events/obj/Debug/Exercise20.Events.csprojAssemblyReference.cache
+/Users/christopherfarrell1/Projects/Exercise20.Events/Exercise20.Events/obj/Debug/Exercise20.Events.csproj.CoreCompileInputs.cache
+/Users/christopherfarrell1/Projects/Exercise20.Events/Exercise20.Events/obj/Debug/Exercise20.Events.exe
+/Users/christopherfarrell1/Projects/Exercise20.Events/Exercise20.Events/obj/Debug/Exercise20.Events.pdb

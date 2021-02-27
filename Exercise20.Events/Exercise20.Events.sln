@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise20.Events", "Exercise20.Events\Exercise20.Events.csproj", "{07751B0F-6634-4CBE-9BE2-98AEF51A48E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07751B0F-6634-4CBE-9BE2-98AEF51A48E2}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{07751B0F-6634-4CBE-9BE2-98AEF51A48E2}.Debug|anycpu.Build.0 = Debug|anycpu
+		{07751B0F-6634-4CBE-9BE2-98AEF51A48E2}.Release|anycpu.ActiveCfg = Release|anycpu
+		{07751B0F-6634-4CBE-9BE2-98AEF51A48E2}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal

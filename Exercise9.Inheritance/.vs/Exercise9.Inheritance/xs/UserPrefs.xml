@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{A7510BE7-E7B8-402F-947B-6148F844861F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Exercise9.Inheritance/Car.cs">
+    <Files>
+      <File FileName="Exercise9.Inheritance/Train.cs" Line="2" Column="40" />
+      <File FileName="Exercise9.Inheritance/Van.cs" Line="12" Column="9" />
+      <File FileName="Exercise9.Inheritance/Car.cs" Line="10" Column="5" />
+      <File FileName="Exercise9.Inheritance/Vehicle.cs" Line="2" Column="40" />
+      <File FileName="Exercise9.Inheritance/Program.cs" Line="41" Column="48" />
+      <File FileName="Exercise9.Inheritance/Accelerator.cs" Line="2" Column="32" />
+      <File FileName="Exercise9.Inheritance/DVLA.cs" Line="2" Column="40" />
+      <File FileName="Exercise9.Inheritance/Solution/Accelerator.cs" Line="2" Column="41" />
+      <File FileName="Exercise9.Inheritance/Solution/Car.cs" Line="6" Column="1" />
+      <File FileName="Exercise9.Inheritance/Solution/DVLA.cs" Line="26" Column="12" />
+      <File FileName="Exercise9.Inheritance/Solution/Truck.cs" Line="6" Column="1" />
+      <File FileName="Exercise9.Inheritance/Solution/Van.cs" Line="9" Column="55" />
+      <File FileName="Exercise9.Inheritance/Solution/Vehicle.cs" Line="10" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Exercise9.Inheritance" expanded="True">
+            <Node name="Exercise9.Inheritance" expanded="True" selected="True">
+              <Node name="Solution" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Exercise9.Inheritance PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

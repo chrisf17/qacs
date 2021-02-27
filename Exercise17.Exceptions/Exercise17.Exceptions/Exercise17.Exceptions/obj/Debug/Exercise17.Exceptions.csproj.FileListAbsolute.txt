@@ -1,0 +1,12 @@
+/Users/christopherfarrell1/Projects/Exercise17.Exceptions/Exercise17.Exceptions/bin/Debug/Exercise17.Exceptions.exe
+/Users/christopherfarrell1/Projects/Exercise17.Exceptions/Exercise17.Exceptions/bin/Debug/Exercise17.Exceptions.pdb
+/Users/christopherfarrell1/Projects/Exercise17.Exceptions/Exercise17.Exceptions/obj/Debug/Exercise17.Exceptions.csprojAssemblyReference.cache
+/Users/christopherfarrell1/Projects/Exercise17.Exceptions/Exercise17.Exceptions/obj/Debug/Exercise17.Exceptions.csproj.CoreCompileInputs.cache
+/Users/christopherfarrell1/Projects/Exercise17.Exceptions/Exercise17.Exceptions/obj/Debug/Exercise17.Exceptions.exe
+/Users/christopherfarrell1/Projects/Exercise17.Exceptions/Exercise17.Exceptions/obj/Debug/Exercise17.Exceptions.pdb
+C:\Users\User\Dropbox\QA\Courses\QACS\Exercise17.Exceptions\Exercise17.Exceptions\Exercise17.Exceptions\bin\Debug\Exercise17.Exceptions.exe
+C:\Users\User\Dropbox\QA\Courses\QACS\Exercise17.Exceptions\Exercise17.Exceptions\Exercise17.Exceptions\bin\Debug\Exercise17.Exceptions.pdb
+C:\Users\User\Dropbox\QA\Courses\QACS\Exercise17.Exceptions\Exercise17.Exceptions\Exercise17.Exceptions\obj\Debug\Exercise17.Exceptions.csprojAssemblyReference.cache
+C:\Users\User\Dropbox\QA\Courses\QACS\Exercise17.Exceptions\Exercise17.Exceptions\Exercise17.Exceptions\obj\Debug\Exercise17.Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\User\Dropbox\QA\Courses\QACS\Exercise17.Exceptions\Exercise17.Exceptions\Exercise17.Exceptions\obj\Debug\Exercise17.Exceptions.exe
+C:\Users\User\Dropbox\QA\Courses\QACS\Exercise17.Exceptions\Exercise17.Exceptions\Exercise17.Exceptions\obj\Debug\Exercise17.Exceptions.pdb

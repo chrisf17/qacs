@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{79ECE15D-5078-4F58-980D-5B893D137180}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Exercise17.Exceptions/Program.cs">
+    <Files>
+      <File FileName="Exercise17.Exceptions/Account.cs" Line="13" Column="10" />
+      <File FileName="Exercise17.Exceptions/CurrentAccount.cs" Line="14" Column="47" />
+      <File FileName="Exercise17.Exceptions/Solution/Account.cs" Line="2" Column="41" />
+      <File FileName="Exercise17.Exceptions/Solution/CurrentAccount.cs" Line="30" Column="19" />
+      <File FileName="Exercise17.Exceptions/Program.cs" Line="12" Column="28" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Exercise17.Exceptions" expanded="True">
+            <Node name="Exercise17.Exceptions" expanded="True">
+              <Node name="Solution" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Exercise17.Exceptions PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

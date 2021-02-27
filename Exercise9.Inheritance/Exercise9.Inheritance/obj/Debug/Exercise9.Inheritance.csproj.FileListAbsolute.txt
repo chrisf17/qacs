@@ -1,0 +1,5 @@
+/Users/christopherfarrell1/Projects/Exercise9.Inheritance/Exercise9.Inheritance/bin/Debug/Exercise9.Inheritance.exe
+/Users/christopherfarrell1/Projects/Exercise9.Inheritance/Exercise9.Inheritance/bin/Debug/Exercise9.Inheritance.pdb
+/Users/christopherfarrell1/Projects/Exercise9.Inheritance/Exercise9.Inheritance/obj/Debug/Exercise9.Inheritance.csproj.CoreCompileInputs.cache
+/Users/christopherfarrell1/Projects/Exercise9.Inheritance/Exercise9.Inheritance/obj/Debug/Exercise9.Inheritance.exe
+/Users/christopherfarrell1/Projects/Exercise9.Inheritance/Exercise9.Inheritance/obj/Debug/Exercise9.Inheritance.pdb

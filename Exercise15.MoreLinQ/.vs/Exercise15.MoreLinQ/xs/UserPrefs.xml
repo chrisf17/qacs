@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{E13EE467-73B5-4951-B218-6F5D93E69B39}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Exercise15.MoreLinQ/Program.cs">
+    <Files>
+      <File FileName="Exercise15.MoreLinQ/Solution.cs" Line="66" Column="72" />
+      <File FileName="Exercise15.MoreLinQ/Program.cs" Line="34" Column="40" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Exercise15.MoreLinQ" expanded="True" selected="True">
+            <Node name="Exercise15.MoreLinQ" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Exercise15.MoreLinQ PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{07751B0F-6634-4CBE-9BE2-98AEF51A48E2}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Exercise20.Events/Program.cs">
+    <Files>
+      <File FileName="Exercise20.Events/Accelerator.cs" Line="6" Column="23" />
+      <File FileName="Exercise20.Events/Program.cs" Line="21" Column="74" />
+      <File FileName="Exercise20.Events/Car.cs" Line="14" Column="18" />
+      <File FileName="Exercise20.Events/Solution/Car.cs" Line="25" Column="9" />
+      <File FileName="Exercise20.Events/Solution/Car2.cs" Line="2" Column="38" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Exercise20.Events" expanded="True" selected="True">
+            <Node name="Exercise20.Events" expanded="True">
+              <Node name="Solution" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Exercise20.Events PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

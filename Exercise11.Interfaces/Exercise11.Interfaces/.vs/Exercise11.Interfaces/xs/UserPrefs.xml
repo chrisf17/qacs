@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{D5FC3144-D3A6-429A-B1B4-DF4B4EA9AC01}|Default">
+  <MonoDevelop.Ide.ItemProperties.Exercise11.Interfaces PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Exercise11.Interfaces/Report.cs">
+    <Files>
+      <File FileName="SpellChecker.Lib/Class1.cs" Line="20" Column="25" />
+      <File FileName="SpellChecker.Lib/ISpellCheckable.cs" Line="12" Column="1" />
+      <File FileName="Exercise11.Interfaces/TextDocument.cs" Line="3" Column="1" />
+      <File FileName="Exercise11.Interfaces/data.txt" Line="4" Column="13" />
+      <File FileName="Exercise11.Interfaces/Program.cs" Line="14" Column="13" />
+      <File FileName="Exercise11.Interfaces/Report.cs" Line="6" Column="5" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Exercise11.Interfaces" expanded="True" selected="True">
+            <Node name="Exercise11.Interfaces" expanded="True">
+              <Node name="References" expanded="True" />
+            </Node>
+            <Node name="SpellCheckerLib" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

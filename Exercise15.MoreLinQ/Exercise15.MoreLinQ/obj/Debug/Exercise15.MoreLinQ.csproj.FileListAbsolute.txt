@@ -1,0 +1,6 @@
+/Users/christopherfarrell1/Projects/Exercise15.MoreLinQ/Exercise15.MoreLinQ/bin/Debug/Exercise15.MoreLinQ.exe
+/Users/christopherfarrell1/Projects/Exercise15.MoreLinQ/Exercise15.MoreLinQ/bin/Debug/Exercise15.MoreLinQ.pdb
+/Users/christopherfarrell1/Projects/Exercise15.MoreLinQ/Exercise15.MoreLinQ/obj/Debug/Exercise15.MoreLinQ.csprojAssemblyReference.cache
+/Users/christopherfarrell1/Projects/Exercise15.MoreLinQ/Exercise15.MoreLinQ/obj/Debug/Exercise15.MoreLinQ.csproj.CoreCompileInputs.cache
+/Users/christopherfarrell1/Projects/Exercise15.MoreLinQ/Exercise15.MoreLinQ/obj/Debug/Exercise15.MoreLinQ.exe
+/Users/christopherfarrell1/Projects/Exercise15.MoreLinQ/Exercise15.MoreLinQ/obj/Debug/Exercise15.MoreLinQ.pdb

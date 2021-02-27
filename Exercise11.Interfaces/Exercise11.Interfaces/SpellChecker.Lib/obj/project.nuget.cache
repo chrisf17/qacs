@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "sxeLKUxPnSEDJrHITpSPzNsoMAJLUcLFhtzUUoW9lPTb0ItlOp/4bPP29KZDvDGBsa4L08sICPsMUBTCuOGfMQ==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\chris\\MyDropbox\\Dropbox\\QA\\Courses\\QACS\\AlternativeExercises\\Exercise11.Interfaces\\Exercise11.Interfaces\\SpellChecker.Lib\\SpellCheckerLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chris\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\chris\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

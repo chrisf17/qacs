@@ -1,0 +1,17 @@
+/Users/christopherfarrell1/Projects/Exercise11.Interfaces/SpellChecker.Lib/bin/Debug/netstandard2.0/SpellCheckerLib.deps.json
+/Users/christopherfarrell1/Projects/Exercise11.Interfaces/SpellChecker.Lib/bin/Debug/netstandard2.0/SpellCheckerLib.dll
+/Users/christopherfarrell1/Projects/Exercise11.Interfaces/SpellChecker.Lib/bin/Debug/netstandard2.0/SpellCheckerLib.pdb
+/Users/christopherfarrell1/Projects/Exercise11.Interfaces/SpellChecker.Lib/obj/Debug/netstandard2.0/SpellCheckerLib.csproj.CoreCompileInputs.cache
+/Users/christopherfarrell1/Projects/Exercise11.Interfaces/SpellChecker.Lib/obj/Debug/netstandard2.0/SpellCheckerLib.AssemblyInfoInputs.cache
+/Users/christopherfarrell1/Projects/Exercise11.Interfaces/SpellChecker.Lib/obj/Debug/netstandard2.0/SpellCheckerLib.AssemblyInfo.cs
+/Users/christopherfarrell1/Projects/Exercise11.Interfaces/SpellChecker.Lib/obj/Debug/netstandard2.0/SpellCheckerLib.dll
+/Users/christopherfarrell1/Projects/Exercise11.Interfaces/SpellChecker.Lib/obj/Debug/netstandard2.0/SpellCheckerLib.pdb
+C:\Users\User\Dropbox\QA\Courses\QACS\Concept_Exercises\Exercise11.Interfaces\Exercise11.Interfaces\SpellChecker.Lib\bin\Debug\netstandard2.0\SpellCheckerLib.deps.json
+C:\Users\User\Dropbox\QA\Courses\QACS\Concept_Exercises\Exercise11.Interfaces\Exercise11.Interfaces\SpellChecker.Lib\bin\Debug\netstandard2.0\SpellCheckerLib.dll
+C:\Users\User\Dropbox\QA\Courses\QACS\Concept_Exercises\Exercise11.Interfaces\Exercise11.Interfaces\SpellChecker.Lib\bin\Debug\netstandard2.0\SpellCheckerLib.pdb
+C:\Users\User\Dropbox\QA\Courses\QACS\Concept_Exercises\Exercise11.Interfaces\Exercise11.Interfaces\SpellChecker.Lib\obj\Debug\netstandard2.0\SpellCheckerLib.csprojAssemblyReference.cache
+C:\Users\User\Dropbox\QA\Courses\QACS\Concept_Exercises\Exercise11.Interfaces\Exercise11.Interfaces\SpellChecker.Lib\obj\Debug\netstandard2.0\SpellCheckerLib.csproj.CoreCompileInputs.cache
+C:\Users\User\Dropbox\QA\Courses\QACS\Concept_Exercises\Exercise11.Interfaces\Exercise11.Interfaces\SpellChecker.Lib\obj\Debug\netstandard2.0\SpellCheckerLib.AssemblyInfoInputs.cache
+C:\Users\User\Dropbox\QA\Courses\QACS\Concept_Exercises\Exercise11.Interfaces\Exercise11.Interfaces\SpellChecker.Lib\obj\Debug\netstandard2.0\SpellCheckerLib.AssemblyInfo.cs
+C:\Users\User\Dropbox\QA\Courses\QACS\Concept_Exercises\Exercise11.Interfaces\Exercise11.Interfaces\SpellChecker.Lib\obj\Debug\netstandard2.0\SpellCheckerLib.dll
+C:\Users\User\Dropbox\QA\Courses\QACS\Concept_Exercises\Exercise11.Interfaces\Exercise11.Interfaces\SpellChecker.Lib\obj\Debug\netstandard2.0\SpellCheckerLib.pdb
