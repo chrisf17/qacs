@@ -4,8 +4,11 @@ namespace Exercise5.Banking
 {
     class Program
     {
-        static void Main(string[] args)
+        static void  Main(string[] args)
         {
+
+            int i = 12;
+
             // TODO:
             // 1. Make account fields private
             // 2. Convert account class to use properties
